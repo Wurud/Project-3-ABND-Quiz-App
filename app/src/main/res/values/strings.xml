@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="questionOne">Who founded the Apple Company? </string>
+    <string name="optionOne">Steve Jobs</string>
+    <string name="optionTwo">Steve Wozniak</string>
+    <string name="optionThree">Ronald Wayne</string>
+    <string name="optionFour">Tim Cook</string>
+    <string name="questionThree">“Education is the key to unlocking the world, a passport to freedom.” said by:</string>
+    <string name="barackObama">Barack Obama</string>
+    <string name="billGates">Bill Gates</string>
+    <string name="oprahWinfrey">Oprah Winfrey</string>
+    <string name="questionTwo">What is the world’s largest company in 2018</string>
+    <string name="google">Google</string>
+    <string name="walmart">Walmart</string>
+    <string name="BPPlc">BP plc</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="hint">This logo represents .....</string>
+</resources>
